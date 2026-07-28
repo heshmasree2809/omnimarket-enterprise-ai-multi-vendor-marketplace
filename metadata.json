@@ -1,0 +1,6 @@
+{
+  "name": "OmniMarket - Enterprise AI Multi-Vendor Marketplace",
+  "description": "Enterprise-grade AI-powered multi-vendor e-commerce marketplace with real-time analytics, AI shopping assistant, semantic search, seller and admin portals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

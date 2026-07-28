@@ -3,7 +3,6 @@
 OmniMart is a modern, high-performance, multi-vendor e-commerce platform designed with an integrated **Smart Shopping Concierge**, dynamic multi-role experiences (**Buyer, Seller, Admin**), real-time product filtering, interactive cart management, order tracking, and an immersive ambient soundscape player.
 
 ---
-
 ## 🌟 Key Features
 
 ### 🛍️ Buyer Experience

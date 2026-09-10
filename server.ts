@@ -210,7 +210,6 @@ Return JSON format:
     res.status(500).json({ error: error.message || "Failed to generate description" });
   }
 });
-
 // Start Express Server with Vite integration
 async function startServer() {
   if (process.env.NODE_ENV !== "production") {
@@ -231,5 +230,4 @@ async function startServer() {
     console.log(`Server listening on http://0.0.0.0:${PORT}`);
   });
 }
-
 startServer();

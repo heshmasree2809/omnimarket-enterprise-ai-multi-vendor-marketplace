@@ -102,7 +102,6 @@ ${JSON.stringify(
   null,
   2
 )}
-
 Analyze the user's natural language request (understand intent, budget constraints, feature requirements, category, gender/age suitability, etc.).
 Return JSON with the IDs of products that match best in order of relevance, along with a short summary reasoning.
 

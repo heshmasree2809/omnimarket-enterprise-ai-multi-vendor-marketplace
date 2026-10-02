@@ -73,18 +73,6 @@ flowchart TD
 
 ---
 
-## 📸 Screenshots & Highlights
-
-| Storefront Catalog | Smart Shopping Assistant |
-| :---: | :---: |
-| ![Storefront Catalog](https://images.unsplash.com/photo-1472851294608-062f824d29cc?w=600&q=80) | ![Smart Shopping Assistant](https://images.unsplash.com/photo-1531746020798-e6953c6e8e04?w=600&q=80) |
-
-| Seller Dashboard | Admin Panel |
-| :---: | :---: |
-| ![Seller Dashboard](https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=80) | ![Admin Panel](https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=80) |
-
----
-
 ## 🚀 Installation & Setup Instructions
 
 ### Prerequisites

@@ -25,7 +25,7 @@ OmniMart is a modern, high-performance, multi-vendor e-commerce platform designe
 ## 🛠️ Tech Stack
 
 | Domain | Technology |
-| :---- | :--- |
+| :---- | :---- |
 | **Frontend Framework** | React 18, TypeScript |
 | **Build Tooling** | Vite |
 | **Styling & Motion** | Tailwind CSS v4, Motion (`motion/react`) |
